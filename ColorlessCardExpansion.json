@@ -1,0 +1,17 @@
+{
+  "id": "ColorlessCardExpansion",
+  "name": "Colorless Card Expansion (Chaos Zero Nightmare Style)",
+  "author": "ChaosZero",
+  "description": "无色牌扩展：Chaos Zero Nightmare Style 风格插画全卡面卡牌。",
+  "version": "0.1.0",
+  "min_game_version": "0.107.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {
+      "id": "BaseLib",
+      "min_version": "3.4.7"
+    }
+  ],
+  "affects_gameplay": true
+}
