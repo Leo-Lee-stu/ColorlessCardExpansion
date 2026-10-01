@@ -3,4 +3,4 @@
 
 已上线创意工坊：无色牌扩展Colorless Card Expansion (Chaos Zero Nightmare Style)
 
-![封面](images.png)
+![封面](image.png)
