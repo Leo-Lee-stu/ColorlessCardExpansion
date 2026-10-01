@@ -1,2 +1,3 @@
 # ColorlessCardExpansion
 杀戮尖塔2MOD无色牌扩展：60 张全新无色卡牌，全卡面无边框风格插画，已加入原版无色卡池。包含全新卡牌机制、自定义能力与图标。需要 BaseLib。已测试于游戏 v0.111.0。
+已上线创意工坊：无色牌扩展Colorless Card Expansion (Chaos Zero Nightmare Style)
